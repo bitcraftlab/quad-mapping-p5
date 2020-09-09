@@ -1,5 +1,5 @@
 
-***Processing demo to demonstrate algorithms for mapping between two quads.***
+**Processing code to demonstrate algorithms for mapping between two quads.**
 
 Using a perspective transform (homography / projective geometry)
 
@@ -14,8 +14,8 @@ It re-uses some code from Benjamin Maus' laserschein project for calculating the
 
 ## Mouse Interaction
 
-Move the mouse to see how the mouse position maps from one quad to the other.
-The blue dot shows what happens to the mouse position when mapped from blue quad onto the red one.
+Move the mouse to see how the mouse position maps from one quad to the other.  
+The blue dot shows what happens to the mouse position when mapped from blue quad onto the red one.  
 The red dot shows what happens to the mouse position when mapped from the red quad to the blue one.
 
 ## Keyboard Interaction
