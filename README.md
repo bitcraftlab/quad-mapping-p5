@@ -10,7 +10,7 @@ Using bilineaer interpolation (rubber-sheet / lerping between quads)
 ![screenshot-bilinear](https://user-images.githubusercontent.com/720669/92593680-cfe88500-f2a1-11ea-9c01-cc3fbddd3bec.jpg)
 
 This technique is used in projection mapping, laser projections etc.
-It re-uses some code from Benjamin Maus' laserschein project for calculating the perspective transform / homographic projections.
+It re-uses some code from Benjamin Maus' [laserschein library](https://github.com/allesblinkt/Laserschein) for calculating the perspective transform / homographic projections.
 
 ## Mouse Interaction
 
