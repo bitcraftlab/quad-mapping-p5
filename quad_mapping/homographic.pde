@@ -1,6 +1,5 @@
 
 // Homographic Projection (Projective Geometry)
-// See: https://www.particleincell.com/2012/quad-interpolation/
 
 class HomographicQuad2Quad implements Mapping {
 
