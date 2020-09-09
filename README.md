@@ -1,8 +1,13 @@
 
-Processing demo to demonstrate algorithms for mapping between two quads:
+***Processing demo to demonstrate algorithms for mapping between two quads.***
 
-- using a perspective transform (homography / projective geometry)
-- using bilineaer interpolation (rubber-sheet / lerping between quads)
+Using a perspective transform (homography / projective geometry)
+
+![screenshot-homographic](https://user-images.githubusercontent.com/720669/92593675-ceb75800-f2a1-11ea-968e-a36e6e3b06cd.jpg)
+
+Using bilineaer interpolation (rubber-sheet / lerping between quads)
+
+![screenshot-bilinear](https://user-images.githubusercontent.com/720669/92593680-cfe88500-f2a1-11ea-9c01-cc3fbddd3bec.jpg)
 
 This technique is used in projection mapping, laser projections etc.
 It re-uses some code from Benjamin Maus' laserschein project for calculating the perspective transform / homographic projections.
